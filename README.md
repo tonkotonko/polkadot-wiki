@@ -29,7 +29,7 @@
   - [Conditional Rendering](#conditional-rendering)
   - [Mkdocs Macros](#mkdocs-macros)
     - [RPC Macro Example](#rpc-macro-example)
-- [Internationalization](#internationalization)
+  - [Internationalization](#internationalization)
 - [License](#license)
 <!-- /TOC -->
 
